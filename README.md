@@ -1,12 +1,19 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B12,50:0D1826,100:3FD8FF&height=210&section=header&text=Mubin%20Bilal&fontSize=58&fontColor=EAF2FF&fontAlignY=36&desc=I%20train%20models%20that%20explain%20themselves&descAlignY=56&descColor=7C8BA8&fontFamily=JetBrains%20Mono" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B12,50:0D1826,100:3FD8FF&height=210&section=header&text=Mubin%20Bilal&fontSize=58&fontColor=EAF2FF&fontAlignY=36&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=56&descColor=7C8BA8&fontFamily=JetBrains%20Mono" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3FD8FF?style=for-the-badge&logo=vercel&logoColor=001018)](https://mubinbilal.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubinbilal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mubinbilal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubinbilal116@gmail.com)
-[![Location](https://img.shields.io/badge/Islamabad%2C%20Pakistan-3DFFB0?style=for-the-badge&logo=googlemaps&logoColor=001018)](#)
+### Data Science & ML Engineer · AI Enthusiast · CS Undergraduate
+
+<p>
+<a href="https://mubinbilal.github.io"><img src="https://img.shields.io/badge/Portfolio-3FD8FF?style=for-the-badge&logo=vercel&logoColor=001018" /></a>
+<a href="https://www.linkedin.com/in/mubinbilal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Mubinbilal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:mubinbilal116@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Islamabad-Pakistan-3DFFB0?style=for-the-badge&logo=googlemaps&logoColor=001018" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Mubinbilal&style=flat-square&color=3FD8FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -14,222 +21,274 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const mubin = {
-  name:        "Mubin Bilal",
-  role:        "Data Science & ML Engineer",
-  university:  "FUUAST Islamabad — B.S. Computer Science",
-  cgpa:        3.51,
-  semester:    7,
-  location:    "Islamabad, Pakistan",
-  focus:       ["Machine Learning", "Data Science", "AI"],
-  openToWork:  true,   // internships & entry-level ML/DS roles
-};
+```python
+class MubinBilal:
+
+    def __init__(self):
+        self.name = "Mubin Bilal"
+        self.role = "Data Science & ML Engineer"
+        self.university = "FUUAST Islamabad"
+        self.degree = "BS Computer Science"
+        self.cgpa = 3.51
+        self.semester = 7
+        self.location = "Islamabad, Pakistan"
+
+        self.interests = [
+            "Machine Learning",
+            "Data Science",
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Intelligent Applications"
+        ]
+
+        self.currently_working_on = "CropX - AI Smart Farming"
+
+        self.looking_for = [
+            "AI/ML Internships",
+            "Data Science Opportunities",
+            "Collaborations"
+        ]
+
+    def ambition(self):
+        return "Building intelligent solutions for real-world problems."
+
+
+me = MubinBilal()
 ```
 
-> 🎯 Computer Science undergraduate focused on supervised & unsupervised learning — from SVM and ensemble classifiers to clustering and regression. I care as much about a model's decision boundary as its accuracy score.
+🎯 I'm a Computer Science undergraduate with hands-on experience in Python, Machine Learning, and Data Science.
 
-🔗 **Full interactive portfolio →** [mubinbilal.github.io](https://mubinbilal.github.io)
+I work with supervised and unsupervised learning techniques, including classification, regression, clustering, and ensemble methods.
+
+My focus is on building practical AI solutions, analyzing data, developing predictive models, and turning machine learning concepts into real-world applications.
+
+- 🔭 Currently developing **CropX – AI-Based Smart Farming Companion**.
+- 🌱 Exploring Machine Learning, Computer Vision, and AI-powered applications.
+- 💼 Completed a Data Science internship at **Arch Technologies**.
+- 🎓 BS Computer Science | CGPA: **3.51**.
+- 🤝 Open to internships, collaborations, and entry-level opportunities.
+
+🌐 **[Explore My Interactive Portfolio](https://mubinbilal.github.io)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Programming Languages
 
-### ML / Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,c,php,js,dart" />
 
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Machine Learning & Data Science
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+### AI / ML Concepts
+
+<img src="https://img.shields.io/badge/Supervised%20Learning-3FD8FF?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-3DFFB0?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Classification-8A63D2?style=flat-square" />
+<img src="https://img.shields.io/badge/Regression-FFB347?style=flat-square" />
+<img src="https://img.shields.io/badge/Clustering-FF6B81?style=flat-square" />
+<img src="https://img.shields.io/badge/Ensemble%20Learning-00BFA6?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer%20Vision-007ACC?style=flat-square" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-607D8B?style=flat-square" />
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=flask,flutter,html,css,mysql,git,github,vscode,visualstudio,idea,unity" />
 
 </div>
+
+**Additional Tools:** Jupyter Notebook, MS Excel, PowerPoint, Microsoft Access, Relational Databases.
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🌱 1. CropX – AI-Based Smart Farming Companion
 
-### 🔬 SVM Breast Cancer Classifier
-[![Repo](https://img.shields.io/badge/View%20Repo-070B12?style=flat-square&logo=github&logoColor=3FD8FF)](https://github.com/Mubinbilal/svm-breast-cancer)
+<kbd>Final Year Project</kbd> <kbd>In Progress</kbd> <kbd>PARC-NARC Collaboration</kbd>
 
-Compared **Linear, RBF, and Polynomial** SVM kernels on the Wisconsin Breast Cancer dataset.
+An AI-powered smart farming application designed to assist farmers with irrigation management, crop disease identification, and intelligent agricultural recommendations.
 
-- ✅ **95.10% accuracy** with Linear kernel
-- 🔧 Tuned C regularization parameter
-- 📊 Stratified 75/25 train-test split
+**Technology Stack:**
+- Flutter – Mobile Application
+- Python – Backend & Machine Learning
+- MySQL – Database
+- ESP32 – IoT Irrigation Controller
+- CNN / MLP / ANN – Crop Disease Prediction
+- Weather API – Weather Forecasting
+- AI Chatbot – Agricultural Assistance
 
-</td>
-<td width="50%">
-
-### 🧬 Naive Bayes Breast Cancer Classifier
-[![Repo](https://img.shields.io/badge/View%20Repo-070B12?style=flat-square&logo=github&logoColor=3FD8FF)](https://github.com/Mubinbilal/naive-bayes-breast-cancer-)
-
-Gaussian Naive Bayes on the Breast Cancer dataset with full evaluation.
-
-- ✅ **93.71% accuracy**
-- 📊 Full confusion matrix (TP/TN/FP/FN)
-- 🔍 Dataset exploration with Pandas
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔢 KNN Digits Classifier
-[![Repo](https://img.shields.io/badge/View%20Repo-070B12?style=flat-square&logo=github&logoColor=3FD8FF)](https://github.com/Mubinbilal/knn-digits-classifier)
-
-KNN classifier on the handwritten digits dataset.
-
-- 📏 StandardScaler feature normalization
-- 🔢 1,797 digit samples (0–9)
-- 📐 Euclidean distance, k=5
-
-</td>
-<td width="50%">
-
-### 🍷 K-Means Wine Clustering
-[![Repo](https://img.shields.io/badge/View%20Repo-070B12?style=flat-square&logo=github&logoColor=3FD8FF)](https://github.com/Mubinbilal/kmeans-wine-clustering)
-
-Unsupervised clustering on the Wine dataset (178 samples).
-
-- 📐 Elbow Method → optimal **k = 3**
-- 📊 Evaluated with Silhouette Score
-- 🎨 Cluster visualization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌲 Random Forest Classifier
-[![Repo](https://img.shields.io/badge/View%20Repo-070B12?style=flat-square&logo=github&logoColor=3FD8FF)](https://github.com/Mubinbilal/random-forest-iris)
-
-Ensemble classifier on the Iris dataset with hyperparameter tuning.
-
-- 🌳 100-tree ensemble model
-- 🔧 Tuned `n_estimators` (20/50/100/200)
-- 📊 Feature importance visualization
-
-</td>
-<td width="50%">
-
-### 🌿 Decision Tree Classifier
-[![Repo](https://img.shields.io/badge/View%20Repo-070B12?style=flat-square&logo=github&logoColor=3FD8FF)](https://github.com/Mubinbilal/decisiontree-iris)
-
-Decision Tree on the Iris dataset with full visualization.
-
-- 🔀 Entropy criterion, `max_depth=3`
-- 🎨 Color-coded tree visualization
-- 📋 Full classification report
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Linear Regression Prediction Model
-[![Repo](https://img.shields.io/badge/View%20Repo-070B12?style=flat-square&logo=github&logoColor=3FD8FF)](https://github.com/Mubinbilal/linearregression-basic)
-
-Simple Linear Regression with live user-input inference.
-
-- 📉 Scatter plot data visualization
-- ⚡ Real-time prediction on user input
-- 🧠 Beginner-friendly implementation
-
-</td>
-<td width="50%">
-
-### 🚢 Titanic Survival Prediction
-Logistic Regression classifier built during my Data Science internship.
-
-- ✅ 80.18% train · 78.21% test accuracy
-- 🧹 Full preprocessing pipeline (null handling, encoding)
-- 891 passenger samples
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>💡 Other Projects</b></summary>
-<br>
-
-- **AI Voice Chatbot** (Python, SQL) — Voice-enabled assistant for system commands, database queries, and YouTube playback
-- **Web Server App** (HTML/CSS/Python/SQL)
-- **Student Record System** (Python/SQL)
-- **Online Voting System** (C#)
-- **Tic-Tac-Toe & Puzzle Solver** (C#)
-
-</details>
+**Key Modules:**
+- Smart irrigation and automatic water pump control.
+- Plant disease detection using leaf images.
+- AI-powered farming chatbot and advisory scheduling.
+- Weather forecasting and irrigation recommendations.
+- Historical records and farming data management.
+- Lightweight ML model evaluation based on accuracy, model size, inference time, and memory usage.
 
 ---
 
-## 💼 Experience
+### 🔐 2. Phishing Website Detection System
 
-**🏢 Data Science Intern — Arch Technologies** *(Remote · Apr – May 2026)*
-> - Built a **Titanic Survival Prediction** model (Logistic Regression, 891 samples) — 80.18% train / 78.21% test accuracy with a full preprocessing pipeline.
-> - Performed **Customer Segmentation** via K-Means (k=4) on 300 customers using the Elbow Method, Silhouette Score, PCA visualization, and heatmaps.
-> - Developed a **Movie Rating Prediction** model, engineering features from real-world data into structured analysis reports.
+<kbd>Python</kbd> <kbd>NLTK</kbd> <kbd>Scikit-learn</kbd> <kbd>Flask</kbd>
 
-[📄 Certificate](https://drive.google.com/file/d/1guG2LXjtM2EwCfsqEW66IJWqK0D3pPbC/view?usp=sharing) · [✉️ Recommendation Letter](https://drive.google.com/file/d/10FUpnOOWuiyIEDjoi8IpThGBueLCIC74/view?usp=sharing)
+An ML-based web application that identifies potentially malicious websites by analyzing URLs.
+
+**Key Features:**
+- URL classification into phishing or legitimate websites.
+- Text tokenization and stemming.
+- CountVectorizer feature extraction.
+- Machine Learning classification model.
+- Flask-based web interface.
+
+---
+
+### 🔬 3. SVM Breast Cancer Classifier
+
+<kbd>Python</kbd> <kbd>Scikit-learn</kbd> <kbd>Machine Learning</kbd>
+
+Compared different Support Vector Machine kernels using the Wisconsin Breast Cancer dataset.
+
+- Linear, RBF, and Polynomial kernel comparison.
+- **95.10% accuracy** with Linear kernel.
+- C regularization parameter tuning.
+- Stratified 75/25 train-test split.
+
+🔗 [View Repository](https://github.com/Mubinbilal/svm-breast-cancer)
+
+---
+
+### 🧬 4. Naive Bayes Breast Cancer Classifier
+
+<kbd>Python</kbd> <kbd>Scikit-learn</kbd> <kbd>Pandas</kbd>
+
+Implemented Gaussian Naive Bayes for breast cancer classification.
+
+- **93.71% accuracy**.
+- Confusion matrix evaluation.
+- True Positive, True Negative, False Positive, and False Negative analysis.
+- Classification report and dataset exploration.
+
+🔗 [View Repository](https://github.com/Mubinbilal/naive-bayes-breast-cancer-)
+
+---
+
+### 🔢 5. KNN Digits Classifier
+
+<kbd>Python</kbd> <kbd>Scikit-learn</kbd>
+
+Handwritten digit classification using the K-Nearest Neighbors algorithm.
+
+- 1,797 handwritten digit samples.
+- Classification of digits from 0–9.
+- StandardScaler feature normalization.
+- Euclidean distance.
+- Optimal implementation with k = 5.
+
+🔗 [View Repository](https://github.com/Mubinbilal/knn-digits-classifier)
+
+---
+
+## 💼 Professional Experience
+
+### Data Science Intern – Arch Technologies
+
+<kbd>Remote</kbd> <kbd>April – May 2026</kbd>
+
+Worked on practical Data Science and Machine Learning projects involving data preprocessing, predictive modeling, clustering, and evaluation.
+
+**Key Contributions:**
+
+**🚢 Titanic Survival Prediction**
+- Built a Logistic Regression classification model.
+- Performed missing-value handling and feature encoding.
+- Achieved 80.18% training and 78.21% testing accuracy.
+- Worked with 891 passenger records.
+
+**👥 Customer Segmentation**
+- Applied K-Means clustering to 300 customers.
+- Identified 4 customer segments.
+- Used Elbow Method and Silhouette Score.
+- Applied PCA for cluster visualization and heatmaps.
+
+**🎬 Movie Rating Prediction**
+- Developed a movie rating prediction model.
+- Performed feature engineering using real-world data.
+- Prepared structured data analysis reports.
+
+📄 [Internship Certificate](https://drive.google.com/file/d/1guG2LXjtM2EwCfsqEW66IJWqK0D3pPbC/view?usp=sharing)
+
+✉️ [Recommendation Letter](https://drive.google.com/file/d/10FUpnOOWuiyIEDjoi8IpThGBueLCIC74/view?usp=sharing)
 
 ---
 
 ## 🎓 Education
 
-**B.S. Computer Science — FUUAST Islamabad** `2023 – 2027`
-- CGPA: **3.51** | Currently in 7th Semester
-- Relevant coursework: Machine Learning, AI, Data Structures, Databases, OOP, Web Development
-- [📎 Internship Authorization Letter](https://drive.google.com/file/d/12OAN_NXWE8cUkyiGBsCvcjraH8tgMJva/view?usp=sharing)
+**B.S. Computer Science**
 
-**Intermediate (ICS)** `2021 – 2023` — Grade **A**
+Federal Urdu University of Arts, Sciences and Technology (FUUAST), Islamabad
+
+- Duration: 2023 – 2027
+- CGPA: **3.51**
+- Current Semester: 7th
+- Relevant Coursework: Machine Learning, Artificial Intelligence, Data Structures, Databases, OOP, Web Development.
+
+**Intermediate (ICS)**
+- Duration: 2021 – 2023
+- Grade: A
 
 ---
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Year |
-|-------------|--------|------|
-| [Artificial Intelligence using Python](https://drive.google.com/file/d/1mOIpZq2bHZxcgUyY44SC2AcKgngJppeP/view?usp=sharing) | Virtual University | 2026 |
-| [Data Analytics and Business Intelligence](https://drive.google.com/file/d/1ZmhTokmgQbFVB67Viqm6KWYCDK2Uh6qZ/view?usp=sharing) | Virtual University | 2026 |
-| [Discover the Art of Prompting](https://coursera.org/verify/AMPWYSVPJB5R) | Google · Coursera | 2026 |
-| [Introduction to Generative AI](https://coursera.org/verify/5VDO1M7CY0QD) | Google Cloud · Coursera | 2026 |
-| [Python for Data Science, AI & Development](https://coursera.org/verify/MI339NKQ5UOU) | IBM · Coursera | 2026 |
+### 🤖 AI & Machine Learning
+
+- Machine Learning with Python – IBM, Coursera
+- Introduction to Computer Vision and Image Processing – IBM, Coursera
+- Introduction to Generative AI – Google Cloud, Coursera
+- Discover the Art of Prompting – Google, Coursera
+- AI for App Building – Google, Coursera
+- Artificial Intelligence using Python – Virtual University
+
+### 📊 Data Science & Programming
+
+- Python for Data Science, AI & Development – IBM, Coursera
+- Data Analytics and Business Intelligence – Virtual University
+- Mobile Game and App Development – DigiSkills (Virtual University)
+
+### 🌐 Internet of Things
+
+- IoT for Everyone – Higher Education Commission, Coursera
+
+### 💡 Professional Development
+
+- Effective Problem-Solving and Decision-Making – UC Irvine
+- Foundations of Project Management – Google
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mubinbilal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3FD8FF&icon_color=3DFFB0&text_color=EAF2FF&bg_color=070B12" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubinbilal&layout=compact&theme=tokyonight&hide_border=true&title_color=3FD8FF&text_color=EAF2FF&bg_color=070B12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mubinbilal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3FD8FF&icon_color=3DFFB0&text_color=EAF2FF&bg_color=070B12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubinbilal&layout=compact&theme=tokyonight&hide_border=true&title_color=3FD8FF&text_color=EAF2FF&bg_color=070B12" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mubinbilal&theme=tokyonight&hide_border=true&background=070B12&ring=3FD8FF&fire=3DFFB0&currStreakLabel=3FD8FF)
+<img src="https://streak-stats.demolab.com?user=Mubinbilal&theme=tokyonight&hide_border=true&background=070B12&ring=3FD8FF&fire=3DFFB0&currStreakLabel=3FD8FF" />
 
 </div>
 
@@ -239,18 +298,30 @@ Logistic Regression classifier built during my Data Science internship.
 
 <div align="center">
 
-💬 Open to **internships**, **collaborations**, and **entry-level ML / Data Science roles**.
+### Interested in building something intelligent together?
 
-[![Portfolio](https://img.shields.io/badge/View%20Full%20Portfolio-3FD8FF?style=for-the-badge&logo=vercel&logoColor=001018)](https://mubinbilal.github.io)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubinbilal)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubinbilal116@gmail.com)
+I'm open to **AI/ML internships, Data Science opportunities, research collaborations, and innovative projects.**
+
+<a href="https://mubinbilal.github.io">
+<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-3FD8FF?style=for-the-badge&logo=vercel&logoColor=001018" />
+</a>
+
+<a href="https://www.linkedin.com/in/mubinbilal">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mubinbilal116@gmail.com">
+<img src="https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Turning data into insights and ideas into intelligent solutions."**
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FD8FF,100:070B12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FD8FF,100:070B12&height=100&section=footer" width="100%" />
 
 </div>
